@@ -31,4 +31,4 @@ putting the link into square brackets [ ] and then the URL in parentheses ( )
 
 -, *, and +
 
-[markdown](https://github.com/Nimo-88/Markdown)
+[Markdown](https://nimo-88.github.io/Markdown/)

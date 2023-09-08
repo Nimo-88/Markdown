@@ -32,7 +32,9 @@ To create bold  and italics use this sign:
 
 ### How do you create a link with Markdown?
 
-putting the link into square brackets [ ] and then the URL in parentheses ( )
+> To create a link put the link into square brackets [ ] and then the URL in parentheses ( )
+
+[my markdown link ](https://nimo-88.github.io/Markdown/)
 
 #### What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 

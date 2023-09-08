@@ -38,6 +38,8 @@ To create bold  and italics use this sign:
 
 #### What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 
--, *, and +
+to create an unordered list 
 
-[Markdown](https://nimo-88.github.io/Markdown/)
+- list one
+- list two
+- list three 

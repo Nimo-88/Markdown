@@ -13,15 +13,22 @@ We use Markdown because of its easy and readable text formatting, making it idea
 
 Creating a heading add one to six # symbols before your heading text.
 
- To create the largest head I need one #
+To create the largest head I need one #
 
- To create the smallest I need to use six ######
+# im my doing my markdown
+
+To create the smallest I need to use six ######
+
+##### I'm doing my markdown 
 
 ### When making text bold or italicized for emphasis, it is best practice to use which symbol?
 
-To create bold italics use this sign:
+To create bold  and italics use this sign: 
+> bold:    **im doing markdowns**
 
-***I'm practicing markdown***
+> italic:   *im doing markdown*
+
+> bold italic:   ***I'm practicing markdown***
 
 ### How do you create a link with Markdown?
 
